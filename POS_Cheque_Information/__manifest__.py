@@ -1,5 +1,5 @@
 {
-    'name': "POS Cheque Payment Information",
+    'name': "POS Cheque Information",
     'summary': "Add Cheque as a Payment Method in Odoo POS – Compatible with Community & Enterprise",
     'description': """
 POS Cheque Payment Method
@@ -24,7 +24,7 @@ Support:
 --------
 For support, contact us at: contact@layamedconsulting.com
     """,
-    'author': 'LAYAMED CONSULTING',
+    'author': 'Layamed Consulting Maroc',
     'version': '17.0.1.0.0',
     'category': 'Point of Sale',
     'version': '1.0',
