@@ -1,5 +1,5 @@
 {
-    'name': "POS Cheque Information",
+    'name': "POS Payment Methods",
     'summary': "Add Cheque as a Payment Method in Odoo POS – Compatible with Community & Enterprise",
     'description': """
 POS Cheque Payment Method
